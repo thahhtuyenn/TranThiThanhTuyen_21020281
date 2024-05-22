@@ -9,7 +9,10 @@ import jakarta.persistence.EntityManager;
 public class Connection {
 
 	public static void main(String[] args) {
-		
+		// CREATE DATABASE TranThiThanhTuyen_21020281
+		// CHARACTER SET = "utf8mb4"
+		// root - sapassword
+		// root - root
 		EntityManager em = AppUtils.getEntityManager();
 		em.close();
 	}

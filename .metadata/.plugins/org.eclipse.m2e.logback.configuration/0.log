@@ -217,3 +217,14 @@
 2024-05-22 23:46:11,354 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\main\resources
 2024-05-22 23:46:11,354 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-05-22 23:46:11,355 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\test\resources
+2024-05-22 23:52:05,135 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-22 23:52:13,848 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-core:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-core:jar:6.4.4.Final
+2024-05-22 23:52:13,852 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.hibernate:hibernate-testing:jar:6.4.4.Final has been relocated to org.hibernate.orm:hibernate-testing:jar:6.4.4.Final
+2024-05-22 23:52:14,309 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-22 23:52:14,311 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\main\resources
+2024-05-22 23:52:14,315 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-22 23:52:14,317 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\test\resources
+2024-05-22 23:53:49,658 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-22 23:53:49,659 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\main\resources
+2024-05-22 23:53:49,661 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-05-22 23:53:49,662 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\TranThiThanhTuyen_21020281\STT79_TranThiThanhTuyen_21020281_SoMay\src\test\resources
