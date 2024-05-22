@@ -1,0 +1,11 @@
+package com.thanhtuyen.server.utils;
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.Persistence;
+
+public class AppUtils {
+	public static final int PORT = 2396;
+	public static EntityManager getEntityManager() {
+		return Persistence.createEntityManagerFactory("Application MariaDB").createEntityManager();
+	}
+}

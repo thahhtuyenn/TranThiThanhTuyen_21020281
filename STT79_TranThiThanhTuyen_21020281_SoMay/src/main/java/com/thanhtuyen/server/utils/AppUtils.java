@@ -1,0 +1,13 @@
+package com.thanhtuyen.server.utils;
+
+import jakarta.persistence.EntityManager;
+import jakarta.persistence.Persistence;
+
+public class AppUtils {
+	//Ma so sinh vien 21020281, port 4 so cuoi mssv: 0281
+	public static final int PORT = 281;
+	public static final String HOST = "localhost";
+	public static EntityManager getEntityManager() {
+		return Persistence.createEntityManagerFactory("Application MariaDB").createEntityManager();
+	}
+}

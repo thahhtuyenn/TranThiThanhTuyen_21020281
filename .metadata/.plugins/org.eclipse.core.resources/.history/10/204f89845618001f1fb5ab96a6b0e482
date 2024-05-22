@@ -1,0 +1,20 @@
+package com.thanhtuyen.server;
+
+import com.thanhtuyen.server.dao.PersonDao;
+import com.thanhtuyen.server.dao.impl.PersonDaoImpl;
+
+public class Connection {
+
+	public static void main(String[] args) {
+		PersonDao pd = new PersonDaoImpl();
+//		Person p = new Person();
+//		p.setId("t124");
+//		p.setFullName("don chung");
+//		p.setGender(Gender.MALE);
+//		p.setPhones(new ArrayList<String>(Arrays.asList("0396172454", "0862372589")));
+		
+		pd.findAll().forEach(System.out::println);
+
+	}
+
+}
